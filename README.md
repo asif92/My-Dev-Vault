@@ -1,4 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://asif92.github.io/My-Dev-Vault/" target="_blank"><img src="https://github.com/asif92/My-Dev-Vault/blob/dev/logo_1.png?raw=true" width="400" alt="Asif Sharif Shahid"></a></p>
+
+![Asif Sharif Shahid](https://github.com/asif92/My-Dev-Vault/blob/dev/logo_1.png?raw=true)
 
 ## Asif Sharif Shahid
 

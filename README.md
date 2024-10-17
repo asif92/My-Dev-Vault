@@ -1,6 +1,6 @@
-<p align="center"><a href="https://asif92.github.io/My-Dev-Vault/" target="_blank"><img src="https://github.com/asif92/My-Dev-Vault/blob/dev/logo_1.png?raw=true" width="400" alt="Asif Sharif Shahid"></a></p>
+<p align="center"><a href="https://asif92.github.io/My-Dev-Vault/" target="_blank"><img src="https://github.com/asif92/My-Dev-Vault/blob/dev/storage/app/public/static/logo_1.png?raw=true" width="400" alt="Asif Sharif Shahid"></a></p>
 
-![Asif Sharif Shahid](https://github.com/asif92/My-Dev-Vault/blob/dev/public/storage/static/logo_1.png?raw=true)
+![Asif Sharif Shahid](https://github.com/asif92/My-Dev-Vault/blob/dev/storage/app/public/static/logo_1.png?raw=true)
 
 ## Asif Sharif Shahid
 

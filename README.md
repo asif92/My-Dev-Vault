@@ -1,4 +1,4 @@
-<p align="center"><a href="https://asif92.github.io/My-Dev-Vault/" target="_blank"><img src="https://github.com/asif92/My-Dev-Vault/blob/dev/storage/app/public/static/logo_1.png?raw=true" width="400" alt="Asif Sharif Shahid"></a></p>
+<p align="center"><a href="https://asif92.github.io/My-Dev-Vault/" target="_blank"><img src="https://github.com/asif92/My-Dev-Vault/blob/dev/storage/app/public/static/logo_1.png?raw=true" width="150" alt="Asif Sharif Shahid"></a></p>
 
 
 ## Asif Sharif Shahid

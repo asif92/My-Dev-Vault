@@ -6,7 +6,9 @@
 
         <title>Asif Sharif Shahid - Full Stack Engineer</title>
 
-
+        <meta name="description" content="As a full stack engineer with a strong foundation in DevOps, I've created a project that dynamically showcases all my GitHub repositories. This project leverages technologies such as React for the front end, Node.js for the backend, and MongoDB for data storage, ensuring a responsive and user-friendly interface. Additionally, I've implemented CI/CD pipelines using tools like GitHub Actions and Docker to automate deployment and enhance efficiency. This project not only demonstrates my skills in full stack development but also highlights my ability to integrate DevOps practices for seamless deployment and maintenance, providing a centralized view of my work for others to explore.">
+        <meta name="keywords" content="Full stack engineer, React frontend, Node.js backend, CI/CD pipelines, Developer portfolio, Responsive interface, Centralized project view">
+        <meta name="author" content="Asif Sharif Shahid">
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">

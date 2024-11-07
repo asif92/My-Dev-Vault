@@ -10,6 +10,7 @@
 - [File Parse Pro](https://github.com/asif92/File-Parse-Pro)
 - [Age Calculator](https://github.com/asif92/age-calculator)
 - [Delete Firebase User](https://github.com/asif92/Delete-Firebase-User)
+- [From Data to Decisions](https://github.com/asif92/From-Data-to-Decisions)
 - [File Fusion](https://github.com/asif92/File-Fusion)
 
 
